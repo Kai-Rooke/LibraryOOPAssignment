@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace OOP_Assignment
 {
-    class Student
+    public class Student
     {
         string studentID;
         string firstName;
@@ -26,9 +26,9 @@ namespace OOP_Assignment
             this.dateOfBirth = DateofBirth;
         }
 
-        void DisplayReportCard()
+        public void DisplayReportCard()
         {
-
+            gradeProfile.grades.Add(new Grade(12, "OOP", 010, 1.0));
         }
     }
 }

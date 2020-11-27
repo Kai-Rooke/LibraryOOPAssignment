@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\44792\\.nuget\\packages\\": {},
+    "C:\\Users\\jmyland\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44792\\Desktop\\Uni Work\\OOP Git-Hub\\OOP\\OOP Assignment\\OOP Assignment.csproj",
+      "projectUniqueName": "C:\\Users\\jmyland\\Downloads\\LibraryOOPAssignment\\OOP Assignment.csproj",
       "projectName": "OOP Assignment",
-      "projectPath": "C:\\Users\\44792\\Desktop\\Uni Work\\OOP Git-Hub\\OOP\\OOP Assignment\\OOP Assignment.csproj",
-      "packagesPath": "C:\\Users\\44792\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44792\\Desktop\\Uni Work\\OOP Git-Hub\\OOP\\OOP Assignment\\obj\\",
+      "projectPath": "C:\\Users\\jmyland\\Downloads\\LibraryOOPAssignment\\OOP Assignment.csproj",
+      "packagesPath": "C:\\Users\\jmyland\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jmyland\\Downloads\\LibraryOOPAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\44792\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jmyland\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

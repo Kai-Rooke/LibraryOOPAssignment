@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 namespace OOP_Assignment{
 
-    class Grade
+    public class Grade
         {
             int indGrade {get;set;}
             string moduleID {get;set;}

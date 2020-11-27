@@ -3,8 +3,8 @@ using System.Collections.Generic;
 
 namespace OOP_Assignment{
 
-    class GradeProfile
+    public class GradeProfile
         {   
-            List<Grade> grades = new List<Grade>();
+           public List<Grade> grades = new List<Grade>();
         }
 }
